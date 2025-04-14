@@ -65,6 +65,7 @@ Adjust logistics planning based on preferred shipping modes
 
 Track seasonal trends and prepare for high-demand months
 ![Screenshot 2025-04-14 145612](https://github.com/user-attachments/assets/65cf745e-7fb4-496a-b7a9-e820d3a3ab61)
-![Screenshot 2025-04-14 145631](https://github.com/user-attachments/assets/7580b048-5a7a-4d63-8942-7827aaaaa118
+![Screenshot 2025-04-14 145631](https://github.com/user-attachments/assets/7580b048-5a7a-4d63-8942-7827aaaaa118)
+
 
 
